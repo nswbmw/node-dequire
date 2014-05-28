@@ -1,0 +1,19 @@
+{
+  "name": "dequire",
+  "version": "0.0.1",
+  "description": "dequire is a useful tool for debug environment. Avoiding writing tons of 'require()'",
+  "main": "./dequire.js",
+  "repository": {
+    "url": "https://github.com/nswbmw/node-dequire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nswbmw/node-dequire/issues"
+  },
+  "keywords": [
+    "require",
+    "requirejs",
+    "clean"
+  ],
+  "licenses": "MIT",
+  "author": "nswbmw"
+}
